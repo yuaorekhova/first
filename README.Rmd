@@ -1,0 +1,14 @@
+---
+title: "readme"
+author: "Orekhova Yulia"
+date: "27 01 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Этот файл содержит описание проекта
+
+очень полезный текст
